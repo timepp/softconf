@@ -1,0 +1,2 @@
+# softconf
+favorite software configurations
